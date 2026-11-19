@@ -1,9 +1,7 @@
-<h1 align="center">RaDiVe</h1>
-
-<h3 align="center">
-  Robust 4D Radar Odometry with<br>
+<h1 align="center">
+  <em>RaDiVe</em> : Robust 4D Radar Odometry with<br>
   Distance-Bounded NDT and Velocity-Discrepancy Point Uncertainty
-</h3>
+</h1>
 
 <p align="center">
   <a href="https://sangwoojung98.github.io/">Sangwoo Jung</a> ·
